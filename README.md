@@ -20,4 +20,5 @@ Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It cont
 - Airpods Max Charging
 - Charging
 - Steps Counting
+- Apple Maps
 
