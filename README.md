@@ -1,5 +1,5 @@
 # SwiftUI Dynamic Island Animations
-Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It contains animation clones for notifications, alerts and activities in iOS apps. 
+Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It contains animation clones for pill-shaped notifications, alerts and activities in iOS apps. 
 
 
 ## Coming soon!!!
