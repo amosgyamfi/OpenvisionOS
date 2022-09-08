@@ -1,11 +1,13 @@
 # SwiftUI Dynamic Island Animations
-SwiftUI Dynamic Island Animations for iOS16 and Beyond. It contains animation clones for notifications, alerts and activities in iOS apps. 
+Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It contains animation clones for notifications, alerts and activities in iOS apps. 
 
 
 ## Coming soon!!!
 
 - Airdrop
 - Silent/ringing
+- Call Coming In
+- Message Coming In
 - Privacy
 - Musuc Bubbling
 - FaceTime Bubbling
