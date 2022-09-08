@@ -9,9 +9,9 @@ Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It cont
 - Call Coming In
 - Message Coming In
 - Privacy
-- Musuc Bubbling
+- Throw Music 
 - FaceTime Bubbling
-- Timer
+- Throw Timer
 - Uber Ariving
 - Lyft Arriving
 - Airline Landing
