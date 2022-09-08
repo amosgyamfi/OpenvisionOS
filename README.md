@@ -8,6 +8,7 @@ Come in and tuck away animations for Dynamic Island on iOS16 and Beyond. It cont
 - Silent/ringing
 - Call Coming In
 - Message Coming In
+- FaceID
 - Privacy
 - Throw Music 
 - FaceTime Bubbling
