@@ -1,6 +1,6 @@
 # Bouncy Isle 
 ## SwiftUI Dynamic Island Animations
-Seamless morphing, come in and tuck away animations for Dynamic Island on iOS 16 and Beyond. It contains animation clones for pill-shaped notifications, alerts and activities. 
+Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone Pro and iPhone Pro Max. It contains animation clones for pill-shaped notifications, alerts and activities. 
 
 
 ## Coming soon!!!
