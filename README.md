@@ -1,25 +1,29 @@
 # Bouncy Isle 
 ## SwiftUI Dynamic Island Animations
-Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone Pro and iPhone Pro Max. It contains animation clones for pill-shaped notifications, alerts and activities. 
+Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone Pro and iPhone Pro Max. It contains animation clones for pill-shaped notifications, alerts, and activities. 
 
 
 ## Coming soon!!!
 
+### First Class Citizen Apple Apps
 - Airdrop
 - Silent/ringing
 - Call Coming In
 - Message Coming In
-- FaceID
+- Approving FaceID 
 - Privacy
-- Throw Music 
+- Music: Now Playing 
 - FaceTime Bubbling
-- Throw Timer
-- Uber Ariving
-- Lyft Arriving
-- Airline Landing
+- Throw Timer into the Island
 - Airpods Pro Charging
 - Airpods Max Charging
-- Charging
-- Steps Counting
-- Apple Maps
+- Battery Charging
+- Apple Maps Directions
+
+### Third-party (Economy) Apps
+- Uber Ariving
+- Lyft Arriving
+- Flighty: Airplane Landing
+- StepsApp: Steps Counting
+- Many More...
 
