@@ -7,6 +7,8 @@ Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone
 
 ### First Class Citizen Apple Apps
 - Airdrop
+- Sleep: On
+- Screen recording
 - Silent/ringing
 - Call Coming In
 - Message Coming In
