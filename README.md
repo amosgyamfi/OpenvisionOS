@@ -7,7 +7,7 @@ Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone
 
 ### First Class Citizen Apple Apps
 - FaceID for lock screen: [Swift file]()
-![FaceID for lock screen](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/dynamicIslandFaceID.gif)
+![FaceID for lock screen](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/faceIDLockScreeen.gif)
 
 ---
 
