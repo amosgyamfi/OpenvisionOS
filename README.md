@@ -6,10 +6,16 @@ Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone
 ## Coming soon!!!
 
 ### First Class Citizen Apple Apps
-- Sleep On: Swift file
+- FaceID for lock screen: [Swift file]()
+![FaceID for lock screen](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/dynamicIslandFaceID.gif)
+
+---
+
+- Sleep On: [Swift file]()
 ![Dynamic Island: Sleep](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/dynamicIslandSleep.gif)
 
-- FaceID for the lock screen
+---
+
 - Airdrop 
 - Screen recording
 - Silent/ringing
