@@ -24,6 +24,8 @@ Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone
 - Apple Maps Directions
 
 ### Third-party (Economy) Apps
+- ** Approving FaceID 
+
 - Uber Arriving
 - Lyft Arriving
 - Flighty: Airplane Landing
