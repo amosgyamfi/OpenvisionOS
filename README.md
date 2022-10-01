@@ -25,6 +25,8 @@ Seamless morphing, come in and tuck away animations for Dynamic Island on iPhone
 
 ### Third-party (Economy) Apps
 - ** Approving FaceID 
+[Swift file]()
+![FaceID](https://github.com/amosgyamfi/dynamic-island-animations/blob/main/Img/dynamicIslandFaceID.gif)
 
 - Uber Arriving
 - Lyft Arriving
