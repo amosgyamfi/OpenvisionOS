@@ -1,5 +1,5 @@
-# SwiftUI TeleTwin
-## Telegram's Beautiful Animations and Lightweight Effects Built With SwiftUI
+# Open visionOS: Animations and UI Designs
+## visionOS animations and UI designs built with SwiftUI. 
 
 ## Coming soon!!!
 
