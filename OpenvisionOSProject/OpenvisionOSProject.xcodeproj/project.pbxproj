@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		84E572F42A6CFBDE002910A1 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 84E572F32A6CFBDE002910A1 /* RealityKitContent */; };
+		84E572F62A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E572F52A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift */; };
+		84E572F82A6CFBDE002910A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E572F72A6CFBDE002910A1 /* ContentView.swift */; };
+		84E572FA2A6CFBE2002910A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E572F92A6CFBE2002910A1 /* Assets.xcassets */; };
+		84E572FD2A6CFBE2002910A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E572FC2A6CFBE2002910A1 /* Preview Assets.xcassets */; };
+		84E573072A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		84E573032A6CFBE3002910A1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84E572E62A6CFBDE002910A1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84E572ED2A6CFBDE002910A1;
+			remoteInfo = OpenvisionOSProject;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		84E572EE2A6CFBDE002910A1 /* OpenvisionOSProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenvisionOSProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84E572F22A6CFBDE002910A1 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		84E572F52A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenvisionOSProjectApp.swift; sourceTree = "<group>"; };
+		84E572F72A6CFBDE002910A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		84E572F92A6CFBE2002910A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84E572FC2A6CFBE2002910A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		84E573022A6CFBE3002910A1 /* OpenvisionOSProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OpenvisionOSProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenvisionOSProjectTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84E572EB2A6CFBDE002910A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84E572F42A6CFBDE002910A1 /* RealityKitContent in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84E572FF2A6CFBE3002910A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84E572E52A6CFBDE002910A1 = {
+			isa = PBXGroup;
+			children = (
+				84E572F02A6CFBDE002910A1 /* OpenvisionOSProject */,
+				84E572F12A6CFBDE002910A1 /* Packages */,
+				84E573052A6CFBE3002910A1 /* OpenvisionOSProjectTests */,
+				84E572EF2A6CFBDE002910A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84E572EF2A6CFBDE002910A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84E572EE2A6CFBDE002910A1 /* OpenvisionOSProject.app */,
+				84E573022A6CFBE3002910A1 /* OpenvisionOSProjectTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84E572F02A6CFBDE002910A1 /* OpenvisionOSProject */ = {
+			isa = PBXGroup;
+			children = (
+				84E572F52A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift */,
+				84E572F72A6CFBDE002910A1 /* ContentView.swift */,
+				84E572F92A6CFBE2002910A1 /* Assets.xcassets */,
+				84E572FB2A6CFBE2002910A1 /* Preview Content */,
+			);
+			path = OpenvisionOSProject;
+			sourceTree = "<group>";
+		};
+		84E572F12A6CFBDE002910A1 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				84E572F22A6CFBDE002910A1 /* RealityKitContent */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		84E572FB2A6CFBE2002910A1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				84E572FC2A6CFBE2002910A1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		84E573052A6CFBE3002910A1 /* OpenvisionOSProjectTests */ = {
+			isa = PBXGroup;
+			children = (
+				84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */,
+			);
+			path = OpenvisionOSProjectTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84E572ED2A6CFBDE002910A1 /* OpenvisionOSProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84E5730A2A6CFBE3002910A1 /* Build configuration list for PBXNativeTarget "OpenvisionOSProject" */;
+			buildPhases = (
+				84E572EA2A6CFBDE002910A1 /* Sources */,
+				84E572EB2A6CFBDE002910A1 /* Frameworks */,
+				84E572EC2A6CFBDE002910A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OpenvisionOSProject;
+			packageProductDependencies = (
+				84E572F32A6CFBDE002910A1 /* RealityKitContent */,
+			);
+			productName = OpenvisionOSProject;
+			productReference = 84E572EE2A6CFBDE002910A1 /* OpenvisionOSProject.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84E573012A6CFBE3002910A1 /* OpenvisionOSProjectTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84E5730D2A6CFBE3002910A1 /* Build configuration list for PBXNativeTarget "OpenvisionOSProjectTests" */;
+			buildPhases = (
+				84E572FE2A6CFBE3002910A1 /* Sources */,
+				84E572FF2A6CFBE3002910A1 /* Frameworks */,
+				84E573002A6CFBE3002910A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84E573042A6CFBE3002910A1 /* PBXTargetDependency */,
+			);
+			name = OpenvisionOSProjectTests;
+			productName = OpenvisionOSProjectTests;
+			productReference = 84E573022A6CFBE3002910A1 /* OpenvisionOSProjectTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84E572E62A6CFBDE002910A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					84E572ED2A6CFBDE002910A1 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					84E573012A6CFBE3002910A1 = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = 84E572ED2A6CFBDE002910A1;
+					};
+				};
+			};
+			buildConfigurationList = 84E572E92A6CFBDE002910A1 /* Build configuration list for PBXProject "OpenvisionOSProject" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84E572E52A6CFBDE002910A1;
+			productRefGroup = 84E572EF2A6CFBDE002910A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84E572ED2A6CFBDE002910A1 /* OpenvisionOSProject */,
+				84E573012A6CFBE3002910A1 /* OpenvisionOSProjectTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84E572EC2A6CFBDE002910A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84E572FD2A6CFBE2002910A1 /* Preview Assets.xcassets in Resources */,
+				84E572FA2A6CFBE2002910A1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84E573002A6CFBE3002910A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84E572EA2A6CFBDE002910A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84E572F82A6CFBDE002910A1 /* ContentView.swift in Sources */,
+				84E572F62A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84E572FE2A6CFBE3002910A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84E573072A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		84E573042A6CFBE3002910A1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84E572ED2A6CFBDE002910A1 /* OpenvisionOSProject */;
+			targetProxy = 84E573032A6CFBE3002910A1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		84E573082A6CFBE3002910A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = xros;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Debug;
+		};
+		84E573092A6CFBE3002910A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = xros;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Release;
+		};
+		84E5730B2A6CFBE3002910A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"OpenvisionOSProject/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amosgyamfi.OpenvisionOSProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+			};
+			name = Debug;
+		};
+		84E5730C2A6CFBE3002910A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"OpenvisionOSProject/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amosgyamfi.OpenvisionOSProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+			};
+			name = Release;
+		};
+		84E5730E2A6CFBE3002910A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amosgyamfi.OpenvisionOSProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OpenvisionOSProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/OpenvisionOSProject";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Debug;
+		};
+		84E5730F2A6CFBE3002910A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amosgyamfi.OpenvisionOSProjectTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OpenvisionOSProject.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/OpenvisionOSProject";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84E572E92A6CFBDE002910A1 /* Build configuration list for PBXProject "OpenvisionOSProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84E573082A6CFBE3002910A1 /* Debug */,
+				84E573092A6CFBE3002910A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84E5730A2A6CFBE3002910A1 /* Build configuration list for PBXNativeTarget "OpenvisionOSProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84E5730B2A6CFBE3002910A1 /* Debug */,
+				84E5730C2A6CFBE3002910A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84E5730D2A6CFBE3002910A1 /* Build configuration list for PBXNativeTarget "OpenvisionOSProjectTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84E5730E2A6CFBE3002910A1 /* Debug */,
+				84E5730F2A6CFBE3002910A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		84E572F32A6CFBDE002910A1 /* RealityKitContent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RealityKitContent;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 84E572E62A6CFBDE002910A1 /* Project object */;
+}
