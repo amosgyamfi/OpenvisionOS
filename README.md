@@ -5,3 +5,6 @@
 ![SwiftUI and visionOS Livetreaming animation](https://github.com/amosgyamfi/open-visionOS/blob/main/Img/livestream2.gif)
 ---
 
+### Animate bubbles with Phase Animator
+![Phase Animator](https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/phaseAnimator.gif)
+---
