@@ -13,6 +13,12 @@
 		84E572FA2A6CFBE2002910A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E572F92A6CFBE2002910A1 /* Assets.xcassets */; };
 		84E572FD2A6CFBE2002910A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E572FC2A6CFBE2002910A1 /* Preview Assets.xcassets */; };
 		84E573072A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */; };
+		84E573122A6CFE95002910A1 /* concert.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 84E573112A6CFE95002910A1 /* concert.mp4 */; };
+		84E573132A6CFE95002910A1 /* concert.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 84E573112A6CFE95002910A1 /* concert.mp4 */; };
+		84E573152A6CFEAA002910A1 /* LiveParticipantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E573142A6CFEAA002910A1 /* LiveParticipantsView.swift */; };
+		84E573172A6CFEB8002910A1 /* SoundIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E573162A6CFEB8002910A1 /* SoundIndicator.swift */; };
+		84E573192A6CFEC1002910A1 /* LiveConcertVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E573182A6CFEC1002910A1 /* LiveConcertVideo.swift */; };
+		84E5731B2A6CFECA002910A1 /* ReactionsWithKeyframes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E5731A2A6CFECA002910A1 /* ReactionsWithKeyframes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +40,11 @@
 		84E572FC2A6CFBE2002910A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84E573022A6CFBE3002910A1 /* OpenvisionOSProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OpenvisionOSProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenvisionOSProjectTests.swift; sourceTree = "<group>"; };
+		84E573112A6CFE95002910A1 /* concert.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = concert.mp4; path = ../../../../visionVoipAnimations/visionVoipAnimations/Livestreaming/concert.mp4; sourceTree = "<group>"; };
+		84E573142A6CFEAA002910A1 /* LiveParticipantsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveParticipantsView.swift; sourceTree = "<group>"; };
+		84E573162A6CFEB8002910A1 /* SoundIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundIndicator.swift; sourceTree = "<group>"; };
+		84E573182A6CFEC1002910A1 /* LiveConcertVideo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveConcertVideo.swift; sourceTree = "<group>"; };
+		84E5731A2A6CFECA002910A1 /* ReactionsWithKeyframes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactionsWithKeyframes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +88,7 @@
 		84E572F02A6CFBDE002910A1 /* OpenvisionOSProject */ = {
 			isa = PBXGroup;
 			children = (
+				84E573102A6CFE73002910A1 /* Livestreaming */,
 				84E572F52A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift */,
 				84E572F72A6CFBDE002910A1 /* ContentView.swift */,
 				84E572F92A6CFBE2002910A1 /* Assets.xcassets */,
@@ -107,6 +119,18 @@
 				84E573062A6CFBE3002910A1 /* OpenvisionOSProjectTests.swift */,
 			);
 			path = OpenvisionOSProjectTests;
+			sourceTree = "<group>";
+		};
+		84E573102A6CFE73002910A1 /* Livestreaming */ = {
+			isa = PBXGroup;
+			children = (
+				84E5731A2A6CFECA002910A1 /* ReactionsWithKeyframes.swift */,
+				84E573182A6CFEC1002910A1 /* LiveConcertVideo.swift */,
+				84E573162A6CFEB8002910A1 /* SoundIndicator.swift */,
+				84E573142A6CFEAA002910A1 /* LiveParticipantsView.swift */,
+				84E573112A6CFE95002910A1 /* concert.mp4 */,
+			);
+			path = Livestreaming;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,6 +219,7 @@
 			files = (
 				84E572FD2A6CFBE2002910A1 /* Preview Assets.xcassets in Resources */,
 				84E572FA2A6CFBE2002910A1 /* Assets.xcassets in Resources */,
+				84E573122A6CFE95002910A1 /* concert.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,6 +227,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84E573132A6CFE95002910A1 /* concert.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +239,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				84E572F82A6CFBDE002910A1 /* ContentView.swift in Sources */,
+				84E573192A6CFEC1002910A1 /* LiveConcertVideo.swift in Sources */,
+				84E573172A6CFEB8002910A1 /* SoundIndicator.swift in Sources */,
+				84E573152A6CFEAA002910A1 /* LiveParticipantsView.swift in Sources */,
+				84E5731B2A6CFECA002910A1 /* ReactionsWithKeyframes.swift in Sources */,
 				84E572F62A6CFBDE002910A1 /* OpenvisionOSProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
