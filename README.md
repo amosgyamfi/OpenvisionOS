@@ -2,7 +2,7 @@
 ## visionOS animations and UI designs built with SwiftUI. Check out the [OpenvisionOSProject](https://github.com/amosgyamfi/OpenvisionOS/tree/main/OpenvisionOSProject) for specific SwiftUI animations and designs
 
 ### 3D rotation animation: Using Model3D, .rotation3DEffect, and .phaseAnimator
-![https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/Model3DandRotation.gif)
+![3D rotation animation](https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/Model3DandRotation.gif)
 ---
 
 ### visionSpaces/Audio Room 
