@@ -5,14 +5,20 @@
 ![3D rotation animation](https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/Model3DandRotation.gif)
 ---
 
+### Fireworks created with Reality Composer Pro
+![Fireworks ](Img/visionOSFireworks.gif)
+---
+
 ### visionSpaces/Audio Room 
-![visionSpaces/Audio Room](https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/visionSpaces.gif)
+![visionSpaces/Audio Room](Img/visionSpaces.gif)
 ---
 
 ### SwiftUI and visionOS Livetreaming animation 
-![SwiftUI and visionOS Livetreaming animation](https://github.com/amosgyamfi/open-visionOS/blob/main/Img/livestream2.gif)
+![SwiftUI and visionOS Livetreaming animation](Img/livestream2.gif)
 ---
 
 ### Animate bubbles with Phase Animator
-![Phase Animator](https://github.com/amosgyamfi/OpenvisionOS/blob/main/Img/phaseAnimator.gif)
+![Phase Animator](Img/phaseAnimator.gif)
 ---
+
+
