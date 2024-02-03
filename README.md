@@ -2,7 +2,7 @@
 ## visionOS animations and UI designs built with SwiftUI. Check out the [Xcode project](https://github.com/amosgyamfi/OpenvisionOS/tree/main/OpenvisionOS) for specific SwiftUI animations and designs
 
 ### Freeform drawing with PencilKit 
-![Img/visionDrawFinal.gif)
+![PencilKit  drawing](Img/visionDrawFinal.gif)
 ---
 
 ### 3D rotation animation: Using Model3D, .rotation3DEffect, and .phaseAnimator
