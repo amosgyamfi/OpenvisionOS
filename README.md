@@ -1,6 +1,14 @@
 # Open visionOS: Animations and UI Designs
 ## visionOS animations and UI designs built with SwiftUI. Check out the [Xcode project](https://github.com/amosgyamfi/OpenvisionOS/tree/main/OpenvisionOS) for specific SwiftUI animations and designs
 
+### Hello intro screeen animation
+![Hello intro screeen animation](Img/helloAnimation.gif)
+---
+
+### Vision Pro 3D rotation 
+![Vision Pro 3D rotation](Img/3dObjectsInvisionOS.gif)
+---
+
 ### Freeform drawing with PencilKit 
 ![PencilKit  drawing](Img/visionDrawFinal.gif)
 ---
